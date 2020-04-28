@@ -1,0 +1,9 @@
+C:\Users\Youcode\Desktop\IT-NEWS\WebApiItNews\WebApiItNews.Logique\bin\Debug\WebApiItNews.Logique.dll
+C:\Users\Youcode\Desktop\IT-NEWS\WebApiItNews\WebApiItNews.Logique\bin\Debug\WebApiItNews.Logique.pdb
+C:\Users\Youcode\Desktop\IT-NEWS\WebApiItNews\WebApiItNews.Logique\obj\Debug\WebApiItNews.Logique.dll
+C:\Users\Youcode\Desktop\IT-NEWS\WebApiItNews\WebApiItNews.Logique\obj\Debug\WebApiItNews.Logique.pdb
+C:\Users\Youcode\Desktop\Back-end-Asp.Net-master\WebApiItNews.Logique\bin\Debug\WebApiItNews.Logique.dll
+C:\Users\Youcode\Desktop\Back-end-Asp.Net-master\WebApiItNews.Logique\bin\Debug\WebApiItNews.Logique.pdb
+C:\Users\Youcode\Desktop\Back-end-Asp.Net-master\WebApiItNews.Logique\obj\Debug\WebApiItNews.Logique.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\Back-end-Asp.Net-master\WebApiItNews.Logique\obj\Debug\WebApiItNews.Logique.dll
+C:\Users\Youcode\Desktop\Back-end-Asp.Net-master\WebApiItNews.Logique\obj\Debug\WebApiItNews.Logique.pdb
